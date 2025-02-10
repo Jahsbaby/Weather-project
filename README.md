@@ -6,7 +6,7 @@ This **Weather App** is a simple yet functional web application built using **HT
 
 ## Features
 
-- **Real-time Weather Updates**: Displays current weather conditions for the user's location or any city entered.
+- **Real-time Weather Updates**: Displays present weather conditions for the user's location or any city entered.
 - **Location-based Weather**: Uses the browser's geolocation to automatically fetch weather data.
 - **Search Functionality**: Allows users to search weather data by city name.
 - **Weather Details**: Displays temperature, humidity, wind speed, and weather conditions.
