@@ -2,7 +2,7 @@
 
 ## About the Project
 
-This **Weather App** is a simple yet functional web application built using **HTML**, **CSS**, and **JavaScript**. It allows users to get current weather information based on their location or by entering the name of a city. The app fetches real-time weather data and displays it in an intuitive, easy-to-understand format, including details like temperature, humidity, and weather conditions. The design is responsive and works seamlessly across devices.
+This **Weather App** is a simple, efficient yet functional web application built using **HTML**, **CSS**, and **JavaScript**. It allows users to get current weather information based on their location or by entering the name of a city. The app fetches real-time weather data and displays it in an intuitive, easy-to-understand format, including details like temperature, humidity, and weather conditions. The design is responsive and works seamlessly across devices.
 
 ## Features
 
